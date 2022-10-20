@@ -1,4 +1,4 @@
-# Conversor de Texto para Fala - 
+# Conversor de Texto para Fala - Biblioteca pyttsx3
 
 ## Using pyttsx3
 
